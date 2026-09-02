@@ -41,3 +41,4 @@ python Code/to_daily.py
 - 2026/09/01:
   - Change name `Code/test.py` to `Code/to_daily.py`
   - Finish `Code/to_daily`, run in the background
+  - Move concatenated data to `/work/DATA/Satellite/IMERG_daily/v20260901/`
